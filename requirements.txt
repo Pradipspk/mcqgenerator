@@ -1,5 +1,8 @@
 openai 
 langchain 
 streamlit
-pyhton-dotenv
-pyPDF2
+python-dotenv
+PyPDF2
+
+
+-e .  #automaticall install local package to the current virtual environment
