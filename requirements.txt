@@ -5,4 +5,4 @@ python-dotenv
 PyPDF2
 
 
--e .  #automaticall install local package to the current virtual environment
+-e .  #automatically install local package to the current virtual environment
